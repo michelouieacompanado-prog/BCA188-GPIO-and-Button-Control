@@ -92,7 +92,7 @@ void loop() {
   *<img width="2048" height="1536" alt="Image" src="https://github.com/user-attachments/assets/75a57bb7-d8e7-4fc0-8bb0-0b6dd90ec7a1" />*
 
 * **Demonstration Video:**  
-  *https://github.com/user-attachments/assets/0eb5e5fe-75af-48ea-86a7-757b7f97dc9d*
+  *<video src="https://github.com/user-attachments/assets/0eb5e5fe-75af-48ea-86a7-757b7f97dc9d" controls width="50%"></video>*
 
 ---
 
